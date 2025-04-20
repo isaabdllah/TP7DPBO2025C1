@@ -61,7 +61,7 @@ Program ini adalah sistem manajemen restoran berbasis web yang dibangun mengguna
 ---
 
 ## Dokumentasi Screen Record
-Berikut adalah dokumentasi video saat program dijalankan:
+Dokumentasi saat program dijalankan dapat dilihat pada file:
 - Dokumentasi_TP7.mp4
 
 ---
