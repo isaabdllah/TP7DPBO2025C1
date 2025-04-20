@@ -62,7 +62,10 @@ Program ini adalah sistem manajemen restoran berbasis web yang dibangun mengguna
 
 ## Dokumentasi Screen Record
 Dokumentasi saat program dijalankan dapat dilihat pada file:
-- Dokumentasi_TP7.mp4
+<video width="640" height="360" controls>
+  <source src="Dokumentasi_TP7.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
