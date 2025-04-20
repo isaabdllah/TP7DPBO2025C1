@@ -62,8 +62,7 @@ Program ini adalah sistem manajemen restoran berbasis web yang dibangun mengguna
 
 ## Dokumentasi Screen Record
 Dokumentasi saat program dijalankan:
-https://github.com/user-attachments/assets/274bc26e-bfc0-4d86-a9bc-570fa36a04fd
-
+https://github.com/isaabdllah/TP7DPBO2025C1/blob/main/Dokumentasi_TP7.mp4
 
 ---
 
